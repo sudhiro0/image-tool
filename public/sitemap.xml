@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yourdomain.com/</loc>
+    <loc>https://image-rd.online/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-02-19</lastmod>
+    <lastmod>2026-03-02</lastmod>
   </url>
   <url>
-    <loc>https://yourdomain.com/tool-resize</loc>
+    <loc>https://image-rd.online/tool-resize</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-02-19</lastmod>
+    <lastmod>2026-03-02</lastmod>
   </url>
   <url>
-    <loc>https://yourdomain.com/tool-converter</loc>
+    <loc>https://image-rd.online/tool-converter</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-02-19</lastmod>
+    <lastmod>2026-03-02</lastmod>
   </url>
   <url>
-    <loc>https://yourdomain.com/tool-pdf</loc>
+    <loc>https://image-rd.online/tool-pdf</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-02-19</lastmod>
+    <lastmod>2026-03-02</lastmod>
   </url>
 </urlset>

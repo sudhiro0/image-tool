@@ -3,10 +3,10 @@ export const seoConfig = {
   site: {
     name: 'Image Processing Tools',
     description: 'Free online image processing tools - Resize images, convert formats to PNG/JPEG/WebP, and convert images to PDF. Merge two images and more.',
-    url: 'https://yourdomain.com',
+    url: 'https://image-rd.online',
     author: 'Image Tool Suite',
     twitterHandle: '@yourtwitterhandle',
-    ogImage: 'https://yourdomain.com/og-image.png'
+    ogImage: 'https://image-rd.online/og-image.png'
   },
   pages: {
     home: {
